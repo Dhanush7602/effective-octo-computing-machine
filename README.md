@@ -1,4 +1,4 @@
-# effective-octo-computing-machine
+# Vision Craft
 Online Eyewear System
 Introduction
 The Online Eyewear System is a web application developed using Python with the Django framework, HTML, CSS, and JavaScript. This system allows users to browse, select, and purchase eyewear products online. It includes features for managing products, user accounts, shopping carts, and orders.
